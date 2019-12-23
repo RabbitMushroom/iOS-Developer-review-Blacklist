@@ -9,6 +9,7 @@ iOS Appstore审核上架 骗子黑名单
 
 受骗经历请发在issue中!
 
+iOS Appstore审核上架交流群:611641785
 
 
 **标题格式为:**
